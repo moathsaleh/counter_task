@@ -2,8 +2,8 @@
 
 ## Start Project:
 
-npm install
-npm run dev
+### npm install
+### npm run dev
 
 
 ## Explanation of the code:
